@@ -1,5 +1,5 @@
 {
-  "name": "KING-MS",
+  "name": "yourbot",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
@@ -9,9 +9,8 @@
     "restart": "pm2 restart wabot"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0",
+    "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@dark-yasiya/scrap": "^1.0.1",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
     "util": "^0.12.4",
