@@ -9,7 +9,7 @@
     "restart": "pm2 restart wabot"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:visper-baileys",
+    "@whiskeysockets/baileys": "7.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/scrap": "^1.0.1",
     "pino": "^7.0.5",
